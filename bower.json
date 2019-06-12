@@ -1,0 +1,21 @@
+{
+  "name": "My First Boostrap homework",
+  "description": "Bootstrap Framework",
+  "main": "index.html",
+  "authors": [
+    "dian21 <dian20@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^5.8.2",
+    "jquery": "^3.4.1"
+  }
+}
